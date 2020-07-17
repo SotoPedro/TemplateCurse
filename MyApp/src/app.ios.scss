@@ -1,0 +1,9 @@
+// Import common styles
+@import "app-common";
+
+// Place any CSS rules you want to apply only on iOS here
+.btn-logic {
+    color: white;
+    background-color: darkgray;
+    border-radius: 5px;
+}
